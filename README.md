@@ -8,15 +8,10 @@ Jackson T. R. - Linkedin: https://br.linkedin.com/in/jackson-torres-ramos-2a8797
 Version 1.0.1
 
 ## Prerequisites
-Netbeans 8.1+ installed
-JDK 7+ installed
+Netbeans 8.1+ and JDK 8+ installed
 
 ## Currently supported languages
-Afrikkans
-English - UK
-French
-Spanish
-Portuguese - BR
+Afrikkans, English - UK, French, Spanish, Portuguese - BR.
 
 ### Comments
 Please, let me now any bugs you find in the game or even in the code. I just want to have fun creating cool stuff, so I hope you have fun too.
